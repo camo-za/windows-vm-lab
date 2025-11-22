@@ -121,7 +121,7 @@ Organised by section:
 
 ## 🎯 Current Learning Focus
 
-- Complete full documentation polish for Windows Server lab  
+- Use Windows client & server lab to practise troubleshooting scenarios  
 - Continue studying for **CompTIA A+ (Core 1 & Core 2)**  
 - Apply admin skills to further practical labs  
 - Keep documenting milestones for LinkedIn and GitHub  
